@@ -1,6 +1,6 @@
-b_¿Beta pudo ver todos los cambios que se realizaron?
+b-¿Beta pudo ver todos los cambios que se realizaron?
 
-c_¿que debio hacer (todos los comandos) en el punto 5 para hacer el merge?
+c-¿que debio hacer (todos los comandos) en el punto 5 para hacer el merge?
 git add 
 git commit -m "Commit 1 en master"
 git add
@@ -8,3 +8,19 @@ git commit -m "Commit 2 en master"
 git checkout -b feature 
 git checkout master
 git merge feature
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No tiene Gamma.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Tuvimos problemas para que todos los cambios realizados en las ramas de cada integrante se vieran reflejados correctamente en el main.
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+No tiene Gamma.
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git clone "https://github.com/CristianBarrio/TP_SO_i3_Equipo120.git"
+git init 
+git add -A
+git commit "ALFA modifica beta.txt"
+git push -u origin main 
