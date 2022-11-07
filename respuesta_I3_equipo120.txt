@@ -1,5 +1,5 @@
 a_¿Como queda el master despues de estos cambios?
-
+Tiene todos los archivos al realizar el merge.
 b_¿Beta pudo ver todos los cambios que se realizaron?
 
 c_¿que debio hacer (todos los comandos) en el punto 5 para hacer el merge?
