@@ -1,1 +1,13 @@
 
+a_¿Como queda el master despues de estos cambios?
+
+b_¿Beta pudo ver todos los cambios que se realizaron?
+
+c_¿que debio hacer (todos los comandos) en el punto 5 para hacer el merge?
+git add 
+git commit -m "Commit 1 en master"
+git add
+git commit -m "Commit 2 en master"
+git checkout -b feature 
+git checkout master
+git merge feature
