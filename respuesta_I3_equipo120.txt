@@ -1,5 +1,7 @@
+a_¿Como queda El master después de estos cambios?
+El master luego de el merge de cada brunch se actualiza.
 b_¿Beta pudo ver todos los cambios que se realizaron?
-
+Si al realizar el merge de cada brunch pasaron al main.
 c_¿que debio hacer (todos los comandos) en el punto 5 para hacer el merge?
 git add 
 git commit -m "Commit 1 en master"
