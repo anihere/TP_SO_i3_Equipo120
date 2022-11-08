@@ -5,7 +5,7 @@ IP: 152.170.155.63
 Hora: 17:41
 
 BETA
-Apellido: Hereida
+Apellido: Heredia
 Nombre: Anibal
-IP:192.168.42.91
+IP: 192.168.42.91
 Hora: 18:27
