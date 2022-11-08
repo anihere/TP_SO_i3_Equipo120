@@ -1,3 +1,6 @@
+ALFA - Barrio Cristian
+BETA - Heredia Anibal
+
 a-¿Cómo queda el master después de estos cambios?
 El master luego de el merge de cada brunch se actualiza.
 
